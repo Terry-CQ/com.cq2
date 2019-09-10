@@ -1,0 +1,98 @@
+#banner {
+    background-image: url('../img/bg_banner.png');
+    background-repeat: repeat-x;
+}
+
+#banner img {
+    width: 100%;
+}
+
+#nav {
+    background: url('../img/bg_nav1.png') repeat-x;
+}
+
+#login-info{
+	height:50px;
+	line-height: 50px;	
+}
+.align_right {
+    text-align: right;
+}
+
+.login-img-bg {
+    background-color: #5A8DDC;
+}
+
+.user-reg-bg {
+    background-color: #0099FF;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+    border-radius: 6px;
+}
+
+.user-reg-bg span,
+.problem-bg span {
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    font-family: '微软雅黑', '黑体', '宋体', Arial, Helvetica, sans-serif;
+}
+
+.question-bg {
+    background-color: #5A8DDC;
+    margin-top: 5px;
+}
+
+.problem-bg {
+    background-color: #5C8DDC;
+    height: 32px;
+    line-height: 32px;
+    margin-top: 5px;
+    border-radius: 6px 6px 0px 0px;
+    padding-left: 15px;
+}
+
+.list-unstyled li {
+    border: 1px solid #5C8DDC;
+    padding: 5px 0px 5px 0px;
+    border-top: 0px;
+}
+
+.problem-title {
+    background-color: #5C8DDC;
+    height: 32px;
+    line-height: 32px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    font-family: '微软雅黑', '黑体', '宋体', Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 5px;
+}
+
+.problem-title img {
+    float: right;
+    margin-top: 5px;
+}
+
+.table thead tr {
+    background-color: #ccc;
+}
+
+.table thead th {
+    text-align: center;
+}
+
+#footer {
+    background-color: #5C8DDC;
+    padding: 10px 0px 10px 0px;
+}
+
+#footer span {
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    font-family: '微软雅黑', '黑体', '宋体', Arial, Helvetica, sans-serif;
+}
